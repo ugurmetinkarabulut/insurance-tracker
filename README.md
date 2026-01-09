@@ -38,9 +38,32 @@ Uğur Metin Karabulut
 📧 ugurmetinkarabulut@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
 
+----------
 
+## 📸 Screenshots
 
----
+### 🔐 Login Screen
+![Login](screenshots/01-login.png)
+
+### 👤 Customer Management
+![Customers](screenshots/02-customers.png)
+
+### 📄 Customer Details & Policies
+![Customer Details](screenshots/03-customer-details.png)
+
+### 📑 Policy Management
+![Policies](screenshots/04-policies.png)
+
+### 🔔 Policy Expiry Notifications
+![Policy Notifications](screenshots/05-policy-notifications.png)
+
+### 🎂 Birthday Notifications
+![Birthday Notifications](screenshots/06-birthday-notifications.png)
+
+### ⚙️ Settings & Security
+![Settings](screenshots/07-settings.png)
+
+----------
 
 # Insurance Tracker (Kaynak Kod Gizli)
 
