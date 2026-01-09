@@ -1,0 +1,19 @@
+# Build & IDE
+build/
+.gradle/
+out/
+*.class
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Local data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Archives/backups
+*.zip
+*.bak
