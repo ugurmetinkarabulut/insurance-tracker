@@ -1,5 +1,7 @@
 # insurance-tracker
-JavaFX &amp; SQLite based insurance agency tracking application
+
+JavaFX & SQLite based insurance agency tracking application (private source)  
+JavaFX ve SQLite tabanlı, sigorta acenteleri için geliştirilmiş masaüstü takip uygulaması.
 
 # Insurance Tracker (Private Source)
 
