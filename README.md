@@ -32,7 +32,7 @@ Source code is private and shared only upon request.
 ## 👤 Developer
 Uğur Metin Karabulut  
 📧 ugurmetinkarabulut@gmail.com  
-🔗 LinkedIn: (link)
+🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
 
 
 
@@ -65,3 +65,5 @@ Kaynak kodu yalnızca talep üzerine paylaşılır.
 
 ## 👤 Geliştirici
 Uğur Metin Karabulut
+📧 ugurmetinkarabulut@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
