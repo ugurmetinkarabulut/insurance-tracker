@@ -28,8 +28,10 @@ For access, collaboration, or demo requests, please contact me.
 (Screenshots will be added)
 
 ## 🔒 License
-This project is **not open-source**.  
-Source code is private and shared only upon request.
+This project is **not open-source** and is developed for **private and commercial use**.
+
+The source code is proprietary and is shared only upon request and explicit
+permission of the author.
 
 ## 👤 Developer
 Uğur Metin Karabulut  
@@ -62,8 +64,8 @@ Kod erişimi, demo veya iş birliği için benimle iletişime geçebilirsiniz.
 - Gradle
 
 ## 🔒 Lisans
-Bu proje **açık kaynak değildir**.  
-Kaynak kodu yalnızca talep üzerine paylaşılır.
+Bu proje **özel kullanım ve ticari amaçla** geliştirilmiştir.  
+Açık kaynak değildir ve kaynak kod yalnızca talep üzerine paylaşılmaktadır.
 
 ## 👤 Geliştirici
 Uğur Metin Karabulut
