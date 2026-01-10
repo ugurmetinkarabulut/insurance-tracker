@@ -24,8 +24,6 @@ For access, collaboration, or demo requests, please contact me.
 - SQLite
 - Gradle
 
-## 📸 Screenshots
-(Screenshots will be added)
 
 ## 🔒 License
 This project is **not open-source** and is developed for **private and commercial use**.
