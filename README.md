@@ -10,17 +10,17 @@ For access, collaboration, or demo requests, please contact me directly.
 
 ## 🚀 Features (v1.1)
 
-- Customer & policy management  
-- Policy expiry tracking with visual notifications  
-- Customer birthday reminders  
-- WhatsApp integration (one-click messaging with predefined templates)  
-- PDF upload and policy document management  
-- Admin panel with password verification  
-- Role-based user management  
-- Audit log for critical actions  
-- Password-protected access  
-- Local database (SQLite)  
-- UI/UX and performance improvements  
+- Customer & policy management
+- Policy expiry tracking with visual notifications
+- Birthday reminders (via notifications)
+- WhatsApp integration (one-click messaging)
+- PDF upload and policy document management
+- Admin panel with password verification
+- Role-based user management
+- Audit log for critical actions
+- Password-protected access
+- Local database (SQLite)
+- UI/UX and performance improvements
 
 ---
 
@@ -60,14 +60,9 @@ The source code is proprietary and shared only upon explicit permission of the a
 ### 📑 Policy Management
 ![Policies](docs/screenshots/03-policies.png)
 
-### 🔔 Notifications (Upcoming Policies)
+### 🔔 Notifications (Policy Expiry & Birthday Reminders)
 ![Notifications Upcoming](docs/screenshots/08-notifications-upcoming.png)
-
-### 🔔 Notifications (Expired Policies)
 ![Notifications Expired](docs/screenshots/09-notifications-expired.png)
-
-### 🎂 Birthday Reminders
-![Birthday Notifications](docs/screenshots/06-birthday-notifications.png)
 
 ### ⚙️ Settings
 ![Settings](docs/screenshots/04-settings.png)
@@ -98,17 +93,16 @@ Demo, iş birliği veya erişim talepleri için benimle iletişime geçebilirsin
 
 ## 🚀 Özellikler (v1.1)
 
-- Müşteri ve poliçe yönetimi  
-- Yaklaşan ve süresi dolan poliçeler için bildirim sistemi  
-- Doğum günü hatırlatmaları  
-- WhatsApp üzerinden tek tıkla müşteri mesajlaşma  
-- PDF poliçe doküman yönetimi  
-- Admin doğrulama ve kullanıcı yönetimi  
-- Yetki bazlı erişim  
-- Audit log (işlem kayıtları)  
-- Şifre korumalı giriş  
-- Yerel veritabanı (SQLite)  
-- Arayüz ve performans iyileştirmeleri  
+- Müşteri ve poliçe yönetimi
+- Poliçe bitiş ve doğum günü bildirimleri
+- WhatsApp ile tek tıkla müşteri mesajlaşma
+- PDF poliçe doküman yönetimi
+- Admin doğrulama ve kullanıcı yönetimi
+- Yetki bazlı erişim
+- Audit log (işlem kayıtları)
+- Şifre korumalı giriş
+- Yerel veritabanı (SQLite)
+- Arayüz ve performans iyileştirmeleri
 
 ---
 
