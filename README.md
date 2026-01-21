@@ -1,42 +1,53 @@
-# insurance-tracker
-
-JavaFX & SQLite based insurance agency tracking application (private source)  
-JavaFX ve SQLite tabanlı, sigorta acenteleri için geliştirilmiş masaüstü takip uygulaması.
-
 # Insurance Tracker (Private Source)
 
-A desktop application developed for insurance agencies to manage customers and insurance policies.
+JavaFX & SQLite based desktop application developed for insurance agencies to manage
+customers, insurance policies, and operational reminders.
 
 ⚠️ **Source code is private.**  
-For access, collaboration, or demo requests, please contact me.
+For access, collaboration, or demo requests, please contact me directly.
 
-## 🚀 Features
+---
+
+## 🚀 Features (v1.1)
+
 - Customer & policy management
-- Policy expiry notifications
+- Policy expiry tracking with visual notifications
 - Customer birthday reminders
-- PDF upload & management
+- WhatsApp integration (one-click messaging with predefined templates)
+- PDF upload and policy document management
+- Admin panel with password verification
+- Role-based user management
+- Audit log for critical actions
 - Password-protected access
 - Local database (SQLite)
+- UI/UX and performance improvements
+
+---
 
 ## 🛠️ Tech Stack
-- Java
-- JavaFX
-- SQLite
-- Gradle
 
+- Java  
+- JavaFX  
+- SQLite  
+- Gradle  
+
+---
 
 ## 🔒 License
+
 This project is **not open-source** and is developed for **private and commercial use**.
 
-The source code is proprietary and is shared only upon request and explicit
-permission of the author.
+The source code is proprietary and shared only upon explicit permission of the author.
+
+---
 
 ## 👤 Developer
-Uğur Metin Karabulut  
+
+**Uğur Metin Karabulut**  
 📧 ugurmetinkarabulut@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
 
-----------
+---
 
 ## 📸 Screenshots
 
@@ -46,49 +57,77 @@ Uğur Metin Karabulut
 ### 👤 Customer Management
 ![Customers](screenshots/02-customers.png)
 
-### 📄 Customer Details & Policies
-![Customer Details](screenshots/03-customer-details.png)
-
 ### 📑 Policy Management
-![Policies](screenshots/04-policies.png)
+![Policies](screenshots/03-policies.png)
 
-### 🔔 Policy Expiry Notifications
-![Policy Notifications](screenshots/05-policy-notifications.png)
+### 🔔 Notifications (Upcoming & Expired Policies)
+![Notifications Upcoming](screenshots/08-notifications-upcoming.png)
+![Notifications Expired](screenshots/09-notifications-expired.png)
 
-### 🎂 Birthday Notifications
-![Birthday Notifications](screenshots/06-birthday-notifications.png)
+### 🎂 Birthday Reminders
+![Birthdays](screenshots/06-birthday-notifications.png)
 
-### ⚙️ Settings & Security
-![Settings](screenshots/07-settings.png)
+### ⚙️ Settings
+![Settings](screenshots/04-settings.png)
 
-----------
+### 🔐 Admin Verification
+![Admin Verification](screenshots/05-admin-verification.png)
+
+### 🧑‍💼 Admin Panel (User Management)
+![Admin Panel](screenshots/06-admin-panel.png)
+
+### 🧾 Audit Log
+![Audit Log](screenshots/07-audit-log.png)
+
+### 💬 WhatsApp Integration
+![WhatsApp Message Preview](screenshots/10-whatsapp-message-preview.png)
+
+---
 
 # Insurance Tracker (Kaynak Kod Gizli)
 
-Sigorta acenteleri için geliştirilmiş masaüstü müşteri ve poliçe takip uygulaması.
+Sigorta acenteleri için geliştirilmiş, müşteri ve poliçe yönetimine odaklanan
+JavaFX tabanlı masaüstü uygulama.
 
 ⚠️ **Kaynak kod paylaşılmamaktadır.**  
-Kod erişimi, demo veya iş birliği için benimle iletişime geçebilirsiniz.
+Demo, iş birliği veya erişim talepleri için benimle iletişime geçebilirsiniz.
 
-## 🚀 Özellikler
+---
+
+## 🚀 Özellikler (v1.1)
+
 - Müşteri ve poliçe yönetimi
-- Yaklaşan poliçe bitiş bildirimleri
+- Yaklaşan ve süresi dolan poliçeler için bildirim sistemi
 - Doğum günü hatırlatmaları
-- PDF yükleme ve görüntüleme
-- Şifre korumalı erişim
+- WhatsApp üzerinden tek tıkla müşteri mesajlaşma
+- PDF poliçe doküman yönetimi
+- Admin doğrulama ve kullanıcı yönetimi
+- Yetki bazlı erişim
+- Audit log (işlem kayıtları)
+- Şifre korumalı giriş
 - Yerel veritabanı (SQLite)
+- Arayüz ve performans iyileştirmeleri
+
+---
 
 ## 🛠️ Kullanılan Teknolojiler
-- Java
-- JavaFX
-- SQLite
-- Gradle
+
+- Java  
+- JavaFX  
+- SQLite  
+- Gradle  
+
+---
 
 ## 🔒 Lisans
-Bu proje **özel kullanım ve ticari amaçla** geliştirilmiştir.  
+
+Bu proje **özel ve ticari kullanım** amacıyla geliştirilmiştir.  
 Açık kaynak değildir ve kaynak kod yalnızca talep üzerine paylaşılmaktadır.
 
+---
+
 ## 👤 Geliştirici
-Uğur Metin Karabulut
+
+**Uğur Metin Karabulut**  
 📧 ugurmetinkarabulut@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
