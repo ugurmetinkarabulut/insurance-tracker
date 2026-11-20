@@ -1,129 +1,30 @@
-# Insurance Tracker (Private Source)
+# Insurance Tracker v1.5
 
-JavaFX & SQLite based desktop application developed for insurance agencies to manage
-customers, insurance policies, and operational reminders.
+Insurance Tracker, sigorta acentelerinin müşteri portföyünü, poliçe vadelerini ve tahsilatlarını takip edebildiği bir masaüstü uygulamasıdır. JavaFX ile çalışır ve kayıtları yerel bir SQLite veritabanında saklar.
 
-⚠️ **Source code is private.**  
-For access, collaboration, or demo requests, please contact me directly.
+[![Insurance Tracker ana ekranında poliçe vadeleri ve takip listesi](docs/screenshots/ana-ekran.png)](docs/screenshots/ana-ekran.png)
 
----
+## Acentede günlük kullanım
 
-## 🚀 Features (v1.1)
+- **Müşteriler ve poliçeler** — Müşteriyi ad, TC veya telefonla bulun. Açık bakiyesini ve poliçelerini inceleyin, poliçeye ait PDF’yi açın veya yeni dönem oluşturun.
+- **Yenileme panosu** — Poliçeleri takip aşamasına göre görün. Görüşmeyi kaydedin, teklif hazırlayın ve bir sonraki takip tarihini belirleyin.
+- **Tahsilatlar** — Açık hesapları listeleyin, ödeme kaydedin ve kalan borcu taksitlere bölün. Gün özetinden seçili tarihteki tahsilatları inceleyin.
+- **Evrak ve aktarım** — Poliçe bazında eksik belgeleri izleyin. Excel dosyalarındaki sütunları eşleştirip değişiklikleri kaydetmeden önce satır bazında inceleyin.
 
-- Customer & policy management
-- Policy expiry tracking with visual notifications
-- Birthday reminders (via notifications)
-- WhatsApp integration (one-click messaging)
-- PDF upload and policy document management
-- Admin panel with password verification
-- Role-based user management
-- Audit log for critical actions
-- Password-protected access
-- Local database (SQLite)
-- UI/UX and performance improvements
+## English overview
 
----
+Insurance Tracker is a commercial desktop application for insurance agencies. Agents can find a customer’s policies and outstanding balance, record a renewal conversation, schedule a follow-up, and collect payments in instalments. The daily summary brings policy activity and collections together for the selected date. Records are stored locally in SQLite.
 
-## 🛠️ Tech Stack
+## Ekran görüntüleri / Screenshots
 
-- Java  
-- JavaFX  
-- SQLite  
-- Gradle  
+Görüntüler örnek kayıtlarla alınmıştır. Tam boy görüntülemek için bir görsele tıklayın.
 
----
+| Poliçe listesi ve seçili poliçenin ayrıntıları | Yenileme panosu | Açık hesaplar ve tahsilatlar |
+| --- | --- | --- |
+| [![Poliçeler ekranı](docs/screenshots/policeler.png)](docs/screenshots/policeler.png) | [![Yenileme aşamalarına göre poliçeler](docs/screenshots/yenileme-panosu.png)](docs/screenshots/yenileme-panosu.png) | [![Müşteri bakiyeleri ve tahsilat hareketleri](docs/screenshots/tahsilatlar.png)](docs/screenshots/tahsilatlar.png) |
 
-## 🔒 License
+## Lisans ve iletişim / License and contact
 
-This project is **not open-source** and is developed for **private and commercial use**.
+Insurance Tracker ticari bir üründür. Kaynak koduna erişim, kullanım ve dağıtım için geliştiricinin yazılı izni gerekir. [Lisans koşulları / License terms](LICENSE)
 
-The source code is proprietary and shared only upon explicit permission of the author.
-
----
-
-## 👤 Developer
-
-**Uğur Metin Karabulut**  
-📧 ugurmetinkarabulut@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
-
----
-
-## 📸 Screenshots
-
-### 🔐 Login Screen
-![Login](docs/screenshots/01-login.png)
-
-### 👤 Customer Management
-![Customers](docs/screenshots/02-customers.png)
-
-### 📑 Policy Management
-![Policies](docs/screenshots/03-policies.png)
-
-### 🔔 Notifications (Policy Expiry & Birthday Reminders)
-![Notifications Upcoming](docs/screenshots/08-notifications-upcoming.png)
-![Notifications Expired](docs/screenshots/09-notifications-expired.png)
-
-### ⚙️ Settings
-![Settings](docs/screenshots/04-settings.png)
-
-### 🔐 Admin Verification
-![Admin Verification](docs/screenshots/05-admin-verification.png)
-
-### 🧑‍💼 Admin Panel (User Management)
-![Admin Panel](docs/screenshots/06-admin-panel.png)
-
-### 🧾 Audit Log
-![Audit Log](docs/screenshots/07-audit-log.png)
-
-### 💬 WhatsApp Integration
-![WhatsApp Message Preview](docs/screenshots/10-whatsapp-message-preview.png)
-
----
-
-# Insurance Tracker (Kaynak Kod Gizli)
-
-Sigorta acenteleri için geliştirilmiş, müşteri ve poliçe yönetimine odaklanan
-JavaFX tabanlı masaüstü uygulama.
-
-⚠️ **Kaynak kod paylaşılmamaktadır.**  
-Demo, iş birliği veya erişim talepleri için benimle iletişime geçebilirsiniz.
-
----
-
-## 🚀 Özellikler (v1.1)
-
-- Müşteri ve poliçe yönetimi
-- Poliçe bitiş ve doğum günü bildirimleri
-- WhatsApp ile tek tıkla müşteri mesajlaşma
-- PDF poliçe doküman yönetimi
-- Admin doğrulama ve kullanıcı yönetimi
-- Yetki bazlı erişim
-- Audit log (işlem kayıtları)
-- Şifre korumalı giriş
-- Yerel veritabanı (SQLite)
-- Arayüz ve performans iyileştirmeleri
-
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-- Java  
-- JavaFX  
-- SQLite  
-- Gradle  
-
----
-
-## 🔒 Lisans
-
-Bu proje **özel ve ticari kullanım** amacıyla geliştirilmiştir.  
-Açık kaynak değildir ve kaynak kod yalnızca talep üzerine paylaşılmaktadır.
-
----
-
-## 👤 Geliştirici
-
-**Uğur Metin Karabulut**  
-📧 ugurmetinkarabulut@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/
+Demo, iş birliği ve erişim talepleri / Demo, collaboration and access requests: **Uğur Metin Karabulut** · [E-posta](mailto:ugurmetinkarabulut@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uğur-metin-karabulut-a16106340/)
